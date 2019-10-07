@@ -4,3 +4,7 @@ Adb bridge docker image based  sorccu/adb that runs as bridge with reconnect
 ```
 docker build --tag nbogojevic/adb-bridge:latest .
 ```
+
+# Usage
+
+Set DEVICE_ADDR environment variable.
